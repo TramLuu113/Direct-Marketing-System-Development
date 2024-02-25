@@ -20,8 +20,11 @@ This project involves developing a system for direct marketing, particularly foc
 - Assess and address class imbalance if present.
 5. Modeling
 - Model 1: Logistic Regression (Baseline Model): Implement logistic regression as a baseline model for initial evaluation.
-- Model 2: Hyperparameter Tuning: Perform hyperparameter tuning via grid search: Run at least two different algorithms with at least 10 different hyperparameter-combinations. Identify the most promising model based on performance metrics.
+- Model 2: Hyperparameter Tuning: Perform hyperparameter tuning via grid search: Run at least two different algorithms with at least 10 different hyperparameter combinations. Identify the most promising model based on performance metrics.
 6. Model Evaluation
 - Evaluate all model fits using core parameters: Accuracy and Area Under Curve (AUC), ROC curves.
 7. Final Model Selection
 Report the final model that best fits the data based on AUC and overfitting control.
+
+## Management Presentation
+The presentation contains core findings and the selected final model effectively. Present findings clearly and concisely suitable for stakeholders with limited data science knowledge.
